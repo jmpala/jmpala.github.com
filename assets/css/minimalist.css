@@ -63,8 +63,8 @@ a:hover {
   border-color: black!important;
 }
 
-.list-group a {
-  color: black!important;
+.list-group-item:hover {
+  color: rgb(150, 150, 150)!important;
 }
 
 /* Timeline */
